@@ -19,4 +19,4 @@ Classes:
  "Event"
  "Avail"
  
-
+View "scheduling.gif" for a reference of what it looks like.
